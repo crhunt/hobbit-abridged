@@ -15,11 +15,11 @@ Kdenlive project file and supporting images to generate an abridged version of T
 
   Kdenlive -> Video editing software released under GNU GPL https://kdenlive.org/
   
-  Digital copies of The Hobbit trilogy movies, extended editions
+  Digital copies of The Hobbit trilogy movies
 
 # More information on movie files:
 
-This repository does not contained the copyrighted films of The Hobbit Trilogy. The kdenlive file requires access to the extended edition of all three films. It was created using versions of the films in the following format:
+This repository does not contained the copyrighted films of The Hobbit Trilogy. The kdenlive file requires access to the theatrical release of the first and third film and the extended edition of the second film. It was created using versions of the films in the following format:
 
 File extension: mkv
 
@@ -45,7 +45,7 @@ The kdenlive video editor uses timestamps to determine how the film is cut for e
   
   An Unexpected Journey: 2h49m38s
   
-  Desolation of Smaug: 3h6m35s
+  Desolation of Smaug (Extended Edition): 3h06m35s
   
   The Battle of the Five Armies: 2h24m29s
 
