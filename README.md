@@ -3,19 +3,21 @@ Kdenlive project file and supporting images to generate an abridged version of T
 
 # This repository contains the following:
   
-  hobbit_abridged_2017.kdenlive -> The kdenlive file containing information on all edits to the Hobbit trilogy movie files.
+  hobbit_abridged_2018.kdenlive -> The kdenlive file containing information on all edits to the Hobbit trilogy movie files.
   
   abridged.png -> Title card added to the abridged film.
   
   credit.png -> Title card added to the abridged film.
-  
-  key_lying.png -> Single frame from the film used in the abridged film.
 
 # In order to generate the abridged film, you will need:
 
   Kdenlive -> Video editing software released under GNU GPL https://kdenlive.org/
   
   Digital copies of The Hobbit trilogy movies
+  
+# More information on kdenlive
+
+This file has been successfully rendered using Version 15.12.3. There appears to be an audio problem when rendering with more recent versions. This is a known issue and will be addressed in a future release.
 
 # More information on movie files:
 
@@ -43,10 +45,10 @@ Audio:
 
 The kdenlive video editor uses timestamps to determine how the film is cut for editing. In order to help ensure the timestamps are accurate, here is the length of each film file used for the project:
   
-  An Unexpected Journey: 2h49m38s
+  An Unexpected Journey: 2h49m38s (Filename: The.Hobbit.An.Unexpected.Journey.2012.720p.BluRay.DTS-ES.x264-tRuEHD.mkv)
   
-  Desolation of Smaug (Extended Edition): 3h06m35s
+  Desolation of Smaug (Extended Edition): 3h06m35s (Filename: The.Hobbit.Desolation.Of.Smaug.Extended.Edition.2013.BluRay.DTS-ES.x264-tRuEHD.mkv)
   
-  The Battle of the Five Armies: 2h24m29s
+  The Battle of the Five Armies: 2h24m29s (Filename: The.Hobbit.The.Battle.of.the.Five.Armies.2014.720p.BluRay.DTS-ES.x264-tRuEHD.mkv)
 
 The final abridged version is 3h38m50s long, including credits.
